@@ -1,0 +1,30 @@
+# Author: Carl Bouchard
+
+
+# Colours
+axes.prop_cycle: cycler('color', ['008fd5', 'fc4f30', 'e5ae38', '6d904f', '8b8b8b', '810f7c'])
+patch.facecolor	: 4C72B0
+
+# Figure
+figure.figsize	: 8,6
+figure.dpi	: 100
+savefig.dpi	: 400
+
+
+# Grid/Axes
+axes.edgecolor	: k
+axes.linewidth	: 1.2
+axes.grid	: True
+axes.labelsize	: medium 
+
+grid.linewidth	: 0.5
+grid.alpha	: 0.9
+
+# Legend
+legend.fancybox	: True # Rounded corners
+legend.loc	: best
+legend.frameon	: True
+
+font.family	: serif
+font.serif: Times New Roman
+font.size	: 18.0
